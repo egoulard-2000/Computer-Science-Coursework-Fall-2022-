@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/root/shared_CS3505/lab4",
+            "binaryPath": "/root/shared_CS3505/lab4/lab4",
+            "binaryArgs": []
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+	"BUILD_DIR" : "C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/SpriteEditor_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada",
+	"CMAKE_SOURCE_DIR" : "C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada",
+	"INCLUDE_DIR" : "C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/SpriteEditor_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/eraser_icon.png",
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/shade_icon.png",
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/pen_icon.png",
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/tester.png",
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/eraser_icon_full.png",
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/tint_icon_full.png",
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/clear_icon.png",
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/mini-player-icon.png",
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/shade_icon_full.png",
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/pen_icon_full.png",
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/clear_icon_full.png",
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/tint_icon.png",
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/bucket_fill_icon_full.png",
+		"C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/bucket_fill_icon.png"
+	],
+	"LOCK_FILE" : "C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/SpriteEditor_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/SpriteEditor_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/emile/Desktop/CS3505/A7/a7-sprite-editor-f22-Stefan-Mada/Resources.qrc",
+	"VERBOSITY" : 0
+}

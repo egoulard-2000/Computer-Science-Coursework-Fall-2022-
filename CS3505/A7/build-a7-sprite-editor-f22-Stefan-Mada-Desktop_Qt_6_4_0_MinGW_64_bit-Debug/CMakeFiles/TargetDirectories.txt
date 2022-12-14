@@ -1,0 +1,9 @@
+C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/SpriteEditor.dir
+C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/SpriteEditor_autogen_timestamp_deps.dir
+C:/Users/emile/Desktop/CS3505/A7/build-a7-sprite-editor-f22-Stefan-Mada-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/SpriteEditor_autogen.dir

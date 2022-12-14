@@ -1,0 +1,14 @@
+debug/gtest-all.o
+debug/gmock-all.o
+debug/main.o
+debug/bishoppiece.o
+debug/chessboard.o
+debug/chessmove.o
+debug/chesspiece.o
+debug/chessposition.o
+debug/kingpiece.o
+debug/knightpiece.o
+debug/pawnpiece.o
+debug/queenpiece.o
+debug/rookpiece.o
+debug/tests.o

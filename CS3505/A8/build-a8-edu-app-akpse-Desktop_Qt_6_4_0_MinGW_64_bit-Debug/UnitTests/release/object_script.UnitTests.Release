@@ -1,0 +1,14 @@
+release/gtest-all.o
+release/gmock-all.o
+release/main.o
+release/bishoppiece.o
+release/chessboard.o
+release/chessmove.o
+release/chesspiece.o
+release/chessposition.o
+release/kingpiece.o
+release/knightpiece.o
+release/pawnpiece.o
+release/queenpiece.o
+release/rookpiece.o
+release/tests.o
