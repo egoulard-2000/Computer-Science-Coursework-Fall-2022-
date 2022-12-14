@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>tester.png</file>
+        <file>eraser_icon.png</file>
+        <file>pen_icon.png</file>
+        <file>shade_icon.png</file>
+        <file>tint_icon.png</file>
+        <file>bucket_fill_icon.png</file>
+        <file>bucket_fill_icon_full.png</file>
+        <file>eraser_icon_full.png</file>
+        <file>pen_icon_full.png</file>
+        <file>tint_icon_full.png</file>
+        <file>mini-player-icon.png</file>
+        <file>shade_icon_full.png</file>
+        <file>clear_icon_full.png</file>
+        <file>clear_icon.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>chessboard1.jpg</file>
+        <file>bBishop.png</file>
+        <file>bKnight.png</file>
+        <file>bKing.png</file>
+        <file>bPawn.png</file>
+        <file>bQueen.png</file>
+        <file>bRook.png</file>
+        <file>wBishop.png</file>
+        <file>wKnight.png</file>
+        <file>wKing.png</file>
+        <file>wPawn.png</file>
+        <file>wQueen.png</file>
+        <file>wRook.png</file>
+        <file>chessboard_olive.jpg</file>
+        <file>blHighlight.png</file>
+        <file>amongus.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
